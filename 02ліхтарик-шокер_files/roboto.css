@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin'), local('Roboto-Thin'), url('http://piknik-nabor.officials.com.ua/css/robotothin.woff2') format('woff2'), url('http://piknik-nabor.officials.com.ua/css/robotothin.woff') format('woff'), url('http://piknik-nabor.officials.com.ua/css/robotothin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url('http://piknik-nabor.officials.com.ua/css/robotothinitalic.woff2') format('woff2'), url('http://piknik-nabor.officials.com.ua/css/robotothinitalic.woff') format('woff'), url('http://piknik-nabor.officials.com.ua/css/robotothinitalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light'), local('Roboto-Light'), url('http://piknik-nabor.officials.com.ua/css/robotolight.woff2') format('woff2'), url('http://piknik-nabor.officials.com.ua/css/robotolight.woff') format('woff'), url('http://piknik-nabor.officials.com.ua/css/robotolight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url('http://piknik-nabor.officials.com.ua/css/robotolightitalic.woff2') format('woff2'), url('http://piknik-nabor.officials.com.ua/css/robotolightitalic.woff') format('woff'), url('http://piknik-nabor.officials.com.ua/css/robotolightitalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto'), local('Roboto-Regular'), url('http://piknik-nabor.officials.com.ua/css/roboto.woff2') format('woff2'), url('http://piknik-nabor.officials.com.ua/css/roboto.woff') format('woff'), url('http://piknik-nabor.officials.com.ua/css/roboto.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Italic'), local('Roboto-Italic'), url('http://piknik-nabor.officials.com.ua/css/robotoitalic.woff2') format('woff2'), url('http://piknik-nabor.officials.com.ua/css/robotoitalic.woff') format('woff'), url('http://piknik-nabor.officials.com.ua/css/robotoitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium'), local('Roboto-Medium'), url('http://piknik-nabor.officials.com.ua/css/robotomedium.woff2') format('woff2'), url('http://piknik-nabor.officials.com.ua/css/robotomedium.woff') format('woff'), url('http://piknik-nabor.officials.com.ua/css/robotomedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url('http://piknik-nabor.officials.com.ua/css/robotomediumitalic.woff2') format('woff2'), url('http://piknik-nabor.officials.com.ua/css/robotomediumitalic.woff') format('woff'), url('http://piknik-nabor.officials.com.ua/css/robotomediumitalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold'), local('Roboto-Bold'), url('http://piknik-nabor.officials.com.ua/css/robotobold.woff2') format('woff2'), url('http://piknik-nabor.officials.com.ua/css/robotobold.woff') format('woff'), url('http://piknik-nabor.officials.com.ua/css/robotobold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url('http://piknik-nabor.officials.com.ua/css/robotobolditalic.woff2') format('woff2'), url('http://piknik-nabor.officials.com.ua/css/robotobolditalic.woff') format('woff'), url('http://piknik-nabor.officials.com.ua/css/robotobolditalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black'), local('Roboto-Black'), url('http://piknik-nabor.officials.com.ua/css/robotoblack.woff2') format('woff2'), url('http://piknik-nabor.officials.com.ua/css/robotoblack.woff') format('woff'), url('http://piknik-nabor.officials.com.ua/css/robotoblack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url('http://piknik-nabor.officials.com.ua/css/robotoblackitalic.woff2') format('woff2'), url('http://piknik-nabor.officials.com.ua/css/robotoblackitalic.woff') format('woff'), url('http://piknik-nabor.officials.com.ua/css/robotoblackitalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
